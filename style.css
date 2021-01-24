@@ -1,0 +1,28 @@
+button {
+  margin-left: 45%;
+  color: white;
+  background: #f1425d;
+  border-radius: 7px;
+}
+
+.second {
+  display: none; 
+}
+
+.container {
+  width: 85%;
+  margin: auto;
+  background: #eee;
+  box-shadow: 4px 4px 8px gray;
+  padding: .5em;
+}
+h1, h2 {
+  color: #f1425d;
+  text-align: center;
+  font-family: impact;
+}
+p {
+  text-align: center;
+  color: blue;
+  text-shadow: 2px 4px 16px blue;
+}
